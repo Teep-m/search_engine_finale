@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/search_engine_finale/static/css/main.24f61562.css",
+    "main.js": "/search_engine_finale/static/js/main.f3c0ce2f.js",
+    "index.html": "/search_engine_finale/index.html",
+    "main.24f61562.css.map": "/search_engine_finale/static/css/main.24f61562.css.map",
+    "main.f3c0ce2f.js.map": "/search_engine_finale/static/js/main.f3c0ce2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24f61562.css",
+    "static/js/main.f3c0ce2f.js"
+  ]
+}
